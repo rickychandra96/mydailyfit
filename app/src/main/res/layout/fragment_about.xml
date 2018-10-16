@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="3dp"
+    tools:context="rickychandra.fst.ubd.mydailyfit.Activity.AboutFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:gravity="center">
+    <ImageView
+        android:id="@+id/textTitle"
+        android:src="@drawable/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+    <TextView
+        android:textColor="@color/black"
+        android:id="@+id/textVersion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="v1.0"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="10sp"
+        android:text="Copyright 2018"/>
+    </LinearLayout>
+</LinearLayout>

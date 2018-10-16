@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyDailyFit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <!--result-->
+    <string name="gemuk">Gemuk</string>
+    <string name="normal">Normal</string>
+    <string name="kurus">Kurus</string>
+    <string name="kebutuhankaloriperhari">Kebutuhan Kalori Perhari :</string>
+    <string name="kategoritubuh">Kategori Tubuh :</string>
+</resources>
